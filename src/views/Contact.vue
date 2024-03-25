@@ -5,7 +5,6 @@
         <div class="gallery-text text-center">
           <h2 class="d-inline-block page-title mb-4">Contact</h2>
           <p class="d-none d-md-block mb-5">
-            구글맵에서 원하는 지역 검색후 공유->지도퍼가기
           </p>
         </div>
         <div class="row">
